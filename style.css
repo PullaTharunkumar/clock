@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items : center;
+}
+#main{
+    width: 400px;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 15%;
+}
+#currentTime{
+    text-align: center;
+}
